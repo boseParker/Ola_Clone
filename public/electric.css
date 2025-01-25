@@ -1,0 +1,19 @@
+.ola-electric-img-box {
+    position: relative;
+}
+.ola-electric-buttons {
+    position: absolute;
+    bottom: 20%;
+    left: 35%;
+}
+.ola-electric-buttons button{
+    width: 150px;
+    background-color: black;
+    color: white;
+}
+
+
+.boxes-1 img:hover{
+    transform: scale(1.1);
+}
+
